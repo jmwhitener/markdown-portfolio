@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- I enjoy tea 
+- Gaming is a hobby of mine 
+- I also enjoy cooking
