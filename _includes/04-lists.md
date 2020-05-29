@@ -1,0 +1,3 @@
+- I enjoy tea 
+- Gaming is a hobby of mine 
+- I also enjoy cooking
